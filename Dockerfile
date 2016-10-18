@@ -10,6 +10,7 @@ RUN apt-get update \
                     matplotlib==1.5.3 \
                     seaborn==0.7.1 \
                     nltk==3.2.1 \
+                    xgboost==0.6a2 \
                     ipython==5.1.0 \
                     jupyter==1.0.0
 
